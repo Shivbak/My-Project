@@ -1,0 +1,72 @@
+#wrap { 
+	width: 1300px; 
+	margin: 0 auto; 
+} 
+#Logo
+        {
+            background-color: black;
+            background-image: image()
+        }
+    
+ img.displayed
+        {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;        
+
+        }
+        
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+#pizzas{
+    
+    margin-left: 550px;
+    margin-bottom: 10px;
+    background: #0B6851;
+    width: 200px;
+      font-family: Georgia Pro Black;
+    font-size: 24px;
+    border-color: #F50818;
+    border-width: thick;
+       }
+
+#sides
+{
+     margin-bottom: 10px;
+    background: #0B6851;
+    width: 200px;
+      font-family: Georgia Pro Black;
+    font-size: 24px;
+    border-color: #F50818;
+     border-width: thick;
+}
+
+#drinks
+{
+     margin-bottom: 10px;
+    background: #0B6851;
+     width: 200px;
+      font-family: Georgia Pro Black;
+    font-size: 24px;
+    border-color: #F50818;
+     border-width: thick;
+}
+
+#desserts
+{
+    margin-bottom: 10px;
+    background: #0B6851;
+    width: 200px;
+    font-family: Georgia Pro Black;
+    font-size: 24px;
+    border-color: #F50818;
+     border-width: thick;
+    
+}
+
+#Cart
+{
+    color: aliceblue;
+}
